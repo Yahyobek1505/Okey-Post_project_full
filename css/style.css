@@ -733,6 +733,30 @@ body button:hover {
   background: #fff;
   box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.1);
 }
+.first__comment h3 {
+  width: 162px;
+  color: #1f2428;
+  font-family: Gilroy;
+  font-size: 18px;
+  margin-bottom: 6px;
+  font-weight: 700;
+  line-height: 20px; /* 111.111% */
+}
+.first__comment p {
+  width: 363px;
+  color: #1f2428;
+  font-family: Gilroy;
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 50px;
+  line-height: 26px; /* 162.5% */
+}
+.first__comment h4{
+  display: inline;
+}
+.first__comment span{
+  margin-left: 15px;
+}
 .bloger__comment button,
 .following button {
   width: 240px;
